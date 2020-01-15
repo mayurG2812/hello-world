@@ -1,1 +1,3 @@
 # hello-world
+hy humans!!
+mayur gupta IIIT vadodara IT branch 2nd year using github and learning github...
